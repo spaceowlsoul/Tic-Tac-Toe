@@ -1,6 +1,4 @@
-# solid-parakeet
-
-Tic-Tac-Toe
+# Tic-Tac-Toe
 
 You know the rules :) 
 
