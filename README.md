@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+### :x: :o: Tic-Tac-Toe
 
 You know the rules :) 
 
